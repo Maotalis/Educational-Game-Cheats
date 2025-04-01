@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\kat24\source\repos\Aimbot\Aimbot\Math.h(7,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\kat24\source\repos\Aimbot\Aimbot\Math.h(8,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\kat24\source\repos\Aimbot\Aimbot\Math.h(87,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\kat24\source\repos\Aimbot\Aimbot\Memory.h(71,80): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating code
+  1 of 166 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Aimbot.vcxproj -> C:\Users\kat24\source\repos\Aimbot\x64\Release\Aimbot.exe
