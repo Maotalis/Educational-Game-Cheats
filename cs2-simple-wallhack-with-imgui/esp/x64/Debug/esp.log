@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\kat24\Desktop\esp\esp\Vector.h(69,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\kat24\Desktop\esp\esp\Vector.h(70,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\kat24\Desktop\esp\esp\memory.h(72,80): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\kat24\Desktop\esp\esp\main.cpp(141,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\kat24\Desktop\esp\esp\main.cpp(141,16): warning C4244:         with
+C:\Users\kat24\Desktop\esp\esp\main.cpp(141,16): warning C4244:         [
+C:\Users\kat24\Desktop\esp\esp\main.cpp(141,16): warning C4244:             T=int
+C:\Users\kat24\Desktop\esp\esp\main.cpp(141,16): warning C4244:         ]
+C:\Users\kat24\Desktop\esp\esp\main.cpp(114,1): warning C4715: 'WinMain': not all control paths return a value
+  esp.vcxproj -> C:\Users\kat24\Desktop\esp\x64\Debug\esp.exe
